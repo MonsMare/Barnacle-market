@@ -54,11 +54,11 @@
       "versions": [
         {
           "version": "1.2.1",
-          "publishTimestamp": 1793652584,
+          "publishTimestamp": 1793652740,
           "source": {
             "type": "git",
             "url": "https://github.com/MonsMare/Barnacle-Hatchery",
-            "commit": "6941e47929df9097458a1ff66db6d4972e862705",
+            "commit": "ff8dafc94593ad73d340205740799bb9b81905f3",
             "path": "plugins/team-bridge"
           },
           "engines": {
@@ -96,11 +96,11 @@
       "versions": [
         {
           "version": "1.1024.5",
-          "publishTimestamp": 1793652584,
+          "publishTimestamp": 1793652740,
           "source": {
             "type": "git",
             "url": "https://github.com/MonsMare/Barnacle-Hatchery",
-            "commit": "6941e47929df9097458a1ff66db6d4972e862705",
+            "commit": "ff8dafc94593ad73d340205740799bb9b81905f3",
             "path": "plugins/barnacle"
           },
           "engines": {
