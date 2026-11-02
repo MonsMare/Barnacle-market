@@ -5,8 +5,8 @@
     "zh": "Barnacle 孵化场"
   },
   "description": {
-    "en": "Public plugin-market index for the Barnacle bundles. The plugin payloads are private and install only on machines authorised by the copyright holder.",
-    "zh": "Barnacle 插件的公开市场索引。插件包本体不公开，仅授权机器可安装。"
+    "en": "Cyprid agent templates and Colony teams for DeepSeek Harness, with native Team execution.",
+    "zh": "面向 DeepSeek Harness 的 Cyprid 专业 Agent 模板与 Colony 团队，通过原生 Team 执行。"
   },
   "metadata": {
     "categories": {
@@ -32,8 +32,8 @@
         "zh": "Barnacle Team Bridge"
       },
       "description": {
-        "en": "Version-gated Team compatibility service with admission-checked professional spawns. Install after the native Agent Teams bundle.",
-        "zh": "版本门校验的 Team 兼容服务与准入专业成员生成；需在原生 Agent Teams bundle 之后安装。"
+        "en": "Profile bundle that mounts a version-gated compatibility Team service with admission-checked professional spawns (install after the native Agent Teams bundle).",
+        "zh": "为 DSH 提供版本门校验的 Team 兼容服务与准入校验的专业成员生成（需在原生 Agent Teams bundle 之后安装）。"
       },
       "author": "Barnacle Hatchery",
       "homepage": "https://github.com/MonsMare/Barnacle-Hatchery#readme",
@@ -54,11 +54,11 @@
       "versions": [
         {
           "version": "1.2.1",
-          "publishTimestamp": 1793649831,
+          "publishTimestamp": 1793650962,
           "source": {
             "type": "git",
             "url": "https://github.com/MonsMare/Barnacle-Hatchery",
-            "commit": "5b2cbbecd57109c0dbee5f0c879f4da0ed9e9303",
+            "commit": "2c287260f76ab9f1939c8980bbda0a1b8ef0df1a",
             "path": "plugins/team-bridge"
           },
           "engines": {
@@ -74,8 +74,8 @@
         "zh": "Barnacle 孵化场"
       },
       "description": {
-        "en": "One user entry for Cyprid agent-preset templates and Colony teams: draft, publish, activate, and have the Lead recruit real professional Team members.",
-        "zh": "Cyprid（Agent Preset）模板与 Colony 团队唯一用户入口：创建/发布模板、激活团队，由 Lead 招募真实专业成员。"
+        "en": "One user entry for Cyprid (agent preset) templates and Colony teams: draft, publish, activate, and let the Lead recruit real professional Team members.",
+        "zh": "Cyprid（Agent Preset）模板与 Colony 团队的唯一用户入口：创建/发布模板、激活团队，由 Lead 招募真实专业成员。"
       },
       "author": "Barnacle Hatchery",
       "homepage": "https://github.com/MonsMare/Barnacle-Hatchery#readme",
@@ -95,12 +95,12 @@
       },
       "versions": [
         {
-          "version": "1.1024.3",
-          "publishTimestamp": 1793649831,
+          "version": "1.1024.4",
+          "publishTimestamp": 1793650962,
           "source": {
             "type": "git",
             "url": "https://github.com/MonsMare/Barnacle-Hatchery",
-            "commit": "5b2cbbecd57109c0dbee5f0c879f4da0ed9e9303",
+            "commit": "2c287260f76ab9f1939c8980bbda0a1b8ef0df1a",
             "path": "plugins/barnacle"
           },
           "engines": {
